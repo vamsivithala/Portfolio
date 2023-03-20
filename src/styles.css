@@ -1,1 +1,19 @@
 /* You can add global styles to this file, and also import other style files */
+* {
+    padding: 0;
+    margin: 0;
+}
+
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.header {
+    background-color: black;
+    /* Replace with your desired color */
+    color: black;
+    /* Optional: Change the font color to contrast with the background */
+
+    /* Optional: Add some padding to the header */
+}

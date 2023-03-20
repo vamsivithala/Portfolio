@@ -1,0 +1,21 @@
+.active-link {
+    font-weight: bold;
+}
+
+.container-fluid {
+    background-color: black;
+    height: 50px;
+}
+
+.bg-body-tertiary {
+    --bs-bg-opacity: 0;
+}
+
+.navbar-brand {
+    color: white;
+
+}
+
+.nav-link {
+    color: white;
+}
